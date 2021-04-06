@@ -1,0 +1,13 @@
+Number of observations in the training data: 112
+Number of observations in the test data: 38
+
+
+Prediction probabilities for first 5 examples:
+[[0.   0.01 0.99]
+ [0.   0.94 0.06]
+ [1.   0.   0.  ]
+ [0.   0.   1.  ]
+ [1.   0.   0.  ]]
+
+
+[('sepal length (cm)', 0.10145432975435852), ('sepal width (cm)', 0.0341167488546434), ('petal length (cm)', 0.46927872881579036), ('petal width (cm)', 0.39515019257520767)]
